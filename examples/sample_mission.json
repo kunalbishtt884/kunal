@@ -1,0 +1,23 @@
+{
+  "environment": {
+    "duration_days": 180,
+    "microgravity_level": 1.0,
+    "radiation_uSv_per_day": 600.0
+  },
+  "exercise": {
+    "frequency_per_week": 6,
+    "session_minutes": 45,
+    "intensity": 0.7
+  },
+  "diet": {
+    "calories_per_day": 2800,
+    "protein_g_per_day": 120,
+    "calcium_mg_per_day": 1200,
+    "vitamin_d_IU_per_day": 1000,
+    "sodium_mg_per_day": 2000
+  },
+  "sleep": {
+    "hours_per_day": 7.5,
+    "circadian_stability": 0.8
+  }
+}
