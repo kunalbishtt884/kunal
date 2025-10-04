@@ -1,0 +1,1812 @@
+[
+  {
+    "day": 0,
+    "muscle_mass_kg": 35.0,
+    "muscle_strength_index": 0.75,
+    "bone_density_g_cm2": 1.1,
+    "cardio_fitness_vo2max": 45.0,
+    "immune_competence_index": 0.8,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.0
+  },
+  {
+    "day": 1,
+    "muscle_mass_kg": 34.92685,
+    "muscle_strength_index": 0.749365,
+    "bone_density_g_cm2": 1.09945,
+    "cardio_fitness_vo2max": 44.991899999999994,
+    "immune_competence_index": 0.80037,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.0006
+  },
+  {
+    "day": 2,
+    "muscle_mass_kg": 34.853852883500004,
+    "muscle_strength_index": 0.7487299999999999,
+    "bone_density_g_cm2": 1.098900275,
+    "cardio_fitness_vo2max": 44.983801457999995,
+    "immune_competence_index": 0.80074,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.0011879999999999998
+  },
+  {
+    "day": 3,
+    "muscle_mass_kg": 34.781008330973485,
+    "muscle_strength_index": 0.7480949999999998,
+    "bone_density_g_cm2": 1.0983508248625002,
+    "cardio_fitness_vo2max": 44.97570437373756,
+    "immune_competence_index": 0.80111,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.0017642399999999998
+  },
+  {
+    "day": 4,
+    "muscle_mass_kg": 34.70831602356175,
+    "muscle_strength_index": 0.7474599999999998,
+    "bone_density_g_cm2": 1.0978016494500689,
+    "cardio_fitness_vo2max": 44.96760874695028,
+    "immune_competence_index": 0.80148,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.0023289552
+  },
+  {
+    "day": 5,
+    "muscle_mass_kg": 34.635775643072506,
+    "muscle_strength_index": 0.7468249999999997,
+    "bone_density_g_cm2": 1.0972527486253438,
+    "cardio_fitness_vo2max": 44.95951457737583,
+    "immune_competence_index": 0.80185,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.0028823760959999995
+  },
+  {
+    "day": 6,
+    "muscle_mass_kg": 34.56338687197849,
+    "muscle_strength_index": 0.7461899999999997,
+    "bone_density_g_cm2": 1.0967041222510312,
+    "cardio_fitness_vo2max": 44.9514218647519,
+    "immune_competence_index": 0.8022199999999999,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.0034247285740799994
+  },
+  {
+    "day": 7,
+    "muscle_mass_kg": 34.49114939341605,
+    "muscle_strength_index": 0.7455549999999996,
+    "bone_density_g_cm2": 1.0961557701899058,
+    "cardio_fitness_vo2max": 44.94333060881625,
+    "immune_competence_index": 0.8025899999999999,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.003956234002598399
+  },
+  {
+    "day": 8,
+    "muscle_mass_kg": 34.41906289118381,
+    "muscle_strength_index": 0.7449199999999996,
+    "bone_density_g_cm2": 1.095607692304811,
+    "cardio_fitness_vo2max": 44.935240809306656,
+    "immune_competence_index": 0.8029599999999999,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.004477109322546431
+  },
+  {
+    "day": 9,
+    "muscle_mass_kg": 34.34712704974124,
+    "muscle_strength_index": 0.7442849999999995,
+    "bone_density_g_cm2": 1.0950598884586586,
+    "cardio_fitness_vo2max": 44.92715246596098,
+    "immune_competence_index": 0.8033299999999999,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.004987567136095502
+  },
+  {
+    "day": 10,
+    "muscle_mass_kg": 34.27534155420728,
+    "muscle_strength_index": 0.7436499999999995,
+    "bone_density_g_cm2": 1.0945123585144292,
+    "cardio_fitness_vo2max": 44.91906557851711,
+    "immune_competence_index": 0.8036999999999999,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.005487815793373592
+  },
+  {
+    "day": 11,
+    "muscle_mass_kg": 34.20370609035899,
+    "muscle_strength_index": 0.7430149999999994,
+    "bone_density_g_cm2": 1.093965102335172,
+    "cardio_fitness_vo2max": 44.91098014671298,
+    "immune_competence_index": 0.8040699999999998,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.00597805947750612
+  },
+  {
+    "day": 12,
+    "muscle_mass_kg": 34.13222034463014,
+    "muscle_strength_index": 0.7423799999999994,
+    "bone_density_g_cm2": 1.0934181197840045,
+    "cardio_fitness_vo2max": 44.90289617028657,
+    "immune_competence_index": 0.8044399999999998,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.006458498287955997
+  },
+  {
+    "day": 13,
+    "muscle_mass_kg": 34.06088400410986,
+    "muscle_strength_index": 0.7417449999999993,
+    "bone_density_g_cm2": 1.0928714107241126,
+    "cardio_fitness_vo2max": 44.89481364897592,
+    "immune_competence_index": 0.8048099999999998,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.006929328322196876
+  },
+  {
+    "day": 14,
+    "muscle_mass_kg": 33.98969675654127,
+    "muscle_strength_index": 0.7411099999999993,
+    "bone_density_g_cm2": 1.0923249750187505,
+    "cardio_fitness_vo2max": 44.8867325825191,
+    "immune_competence_index": 0.8051799999999998,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.007390741755752939
+  },
+  {
+    "day": 15,
+    "muscle_mass_kg": 33.918658290320096,
+    "muscle_strength_index": 0.7404749999999992,
+    "bone_density_g_cm2": 1.091778812531241,
+    "cardio_fitness_vo2max": 44.87865297065425,
+    "immune_competence_index": 0.8055499999999998,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.00784292692063788
+  },
+  {
+    "day": 16,
+    "muscle_mass_kg": 33.84776829449333,
+    "muscle_strength_index": 0.7398399999999992,
+    "bone_density_g_cm2": 1.0912329231249753,
+    "cardio_fitness_vo2max": 44.87057481311953,
+    "immune_competence_index": 0.8059199999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.008286068382225122
+  },
+  {
+    "day": 17,
+    "muscle_mass_kg": 33.77702645875784,
+    "muscle_strength_index": 0.7392049999999991,
+    "bone_density_g_cm2": 1.0906873066634128,
+    "cardio_fitness_vo2max": 44.86249810965317,
+    "immune_competence_index": 0.8062899999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.00872034701458062
+  },
+  {
+    "day": 18,
+    "muscle_mass_kg": 33.70643247345904,
+    "muscle_strength_index": 0.7385699999999991,
+    "bone_density_g_cm2": 1.0901419630100813,
+    "cardio_fitness_vo2max": 44.854422859993434,
+    "immune_competence_index": 0.8066599999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.009145940074289007
+  },
+  {
+    "day": 19,
+    "muscle_mass_kg": 33.63598602958951,
+    "muscle_strength_index": 0.737934999999999,
+    "bone_density_g_cm2": 1.0895968920285763,
+    "cardio_fitness_vo2max": 44.846349063878634,
+    "immune_competence_index": 0.8070299999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.009563021272803228
+  },
+  {
+    "day": 20,
+    "muscle_mass_kg": 33.56568681878767,
+    "muscle_strength_index": 0.737299999999999,
+    "bone_density_g_cm2": 1.089052093582562,
+    "cardio_fitness_vo2max": 44.83827672104714,
+    "immune_competence_index": 0.8073999999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.009971760847347163
+  },
+  {
+    "day": 21,
+    "muscle_mass_kg": 33.495534533336404,
+    "muscle_strength_index": 0.7366649999999989,
+    "bone_density_g_cm2": 1.088507567535771,
+    "cardio_fitness_vo2max": 44.83020583123734,
+    "immune_competence_index": 0.8077699999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.01037232563040022
+  },
+  {
+    "day": 22,
+    "muscle_mass_kg": 33.42552886616173,
+    "muscle_strength_index": 0.7360299999999989,
+    "bone_density_g_cm2": 1.087963313752003,
+    "cardio_fitness_vo2max": 44.82213639418772,
+    "immune_competence_index": 0.8081399999999996,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.010764879117792215
+  },
+  {
+    "day": 23,
+    "muscle_mass_kg": 33.355669510831454,
+    "muscle_strength_index": 0.7353949999999988,
+    "bone_density_g_cm2": 1.087419332095127,
+    "cardio_fitness_vo2max": 44.81406840963677,
+    "immune_competence_index": 0.8085099999999996,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.011149581535436371
+  },
+  {
+    "day": 24,
+    "muscle_mass_kg": 33.28595616155382,
+    "muscle_strength_index": 0.7347599999999987,
+    "bone_density_g_cm2": 1.0868756224290796,
+    "cardio_fitness_vo2max": 44.806001877323034,
+    "immune_competence_index": 0.8088799999999996,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.011526589904727644
+  },
+  {
+    "day": 25,
+    "muscle_mass_kg": 33.21638851317617,
+    "muscle_strength_index": 0.7341249999999987,
+    "bone_density_g_cm2": 1.086332184617865,
+    "cardio_fitness_vo2max": 44.79793679698512,
+    "immune_competence_index": 0.8092499999999996,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.01189605810663309
+  },
+  {
+    "day": 26,
+    "muscle_mass_kg": 33.14696626118363,
+    "muscle_strength_index": 0.7334899999999986,
+    "bone_density_g_cm2": 1.085789018525556,
+    "cardio_fitness_vo2max": 44.78987316836166,
+    "immune_competence_index": 0.8096199999999996,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.012258136944500429
+  },
+  {
+    "day": 27,
+    "muscle_mass_kg": 33.07768910169776,
+    "muscle_strength_index": 0.7328549999999986,
+    "bone_density_g_cm2": 1.0852461240162932,
+    "cardio_fitness_vo2max": 44.78181099119135,
+    "immune_competence_index": 0.8099899999999995,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.01261297420561042
+  },
+  {
+    "day": 28,
+    "muscle_mass_kg": 33.00855673147521,
+    "muscle_strength_index": 0.7322199999999985,
+    "bone_density_g_cm2": 1.0847035009542851,
+    "cardio_fitness_vo2max": 44.77375026521293,
+    "immune_competence_index": 0.8103599999999995,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.012960714721498212
+  },
+  {
+    "day": 29,
+    "muscle_mass_kg": 32.93956884790642,
+    "muscle_strength_index": 0.7315849999999985,
+    "bone_density_g_cm2": 1.0841611492038081,
+    "cardio_fitness_vo2max": 44.76569099016519,
+    "immune_competence_index": 0.8107299999999995,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.013301500427068248
+  },
+  {
+    "day": 30,
+    "muscle_mass_kg": 32.8707251490143,
+    "muscle_strength_index": 0.7309499999999984,
+    "bone_density_g_cm2": 1.0836190686292062,
+    "cardio_fitness_vo2max": 44.75763316578696,
+    "immune_competence_index": 0.8110999999999995,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.013635470418526882
+  },
+  {
+    "day": 31,
+    "muscle_mass_kg": 32.80202533345285,
+    "muscle_strength_index": 0.7303149999999984,
+    "bone_density_g_cm2": 1.0830772590948916,
+    "cardio_fitness_vo2max": 44.74957679181712,
+    "immune_competence_index": 0.8114699999999995,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.013962761010156343
+  },
+  {
+    "day": 32,
+    "muscle_mass_kg": 32.733469100505936,
+    "muscle_strength_index": 0.7296799999999983,
+    "bone_density_g_cm2": 1.0825357204653443,
+    "cardio_fitness_vo2max": 44.74152186799459,
+    "immune_competence_index": 0.8118399999999995,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.014283505789953216
+  },
+  {
+    "day": 33,
+    "muscle_mass_kg": 32.665056150085874,
+    "muscle_strength_index": 0.7290449999999983,
+    "bone_density_g_cm2": 1.0819944526051115,
+    "cardio_fitness_vo2max": 44.733468394058356,
+    "immune_competence_index": 0.8122099999999994,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.014597835674154151
+  },
+  {
+    "day": 34,
+    "muscle_mass_kg": 32.59678618273219,
+    "muscle_strength_index": 0.7284099999999982,
+    "bone_density_g_cm2": 1.081453455378809,
+    "cardio_fitness_vo2max": 44.72541636974743,
+    "immune_competence_index": 0.8125799999999994,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.014905878960671068
+  },
+  {
+    "day": 35,
+    "muscle_mass_kg": 32.52865889961028,
+    "muscle_strength_index": 0.7277749999999982,
+    "bone_density_g_cm2": 1.0809127286511195,
+    "cardio_fitness_vo2max": 44.71736579480088,
+    "immune_competence_index": 0.8129499999999994,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.015207761381457647
+  },
+  {
+    "day": 36,
+    "muscle_mass_kg": 32.46067400251009,
+    "muscle_strength_index": 0.7271399999999981,
+    "bone_density_g_cm2": 1.080372272286794,
+    "cardio_fitness_vo2max": 44.70931666895782,
+    "immune_competence_index": 0.8133199999999994,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.015503606153828493
+  },
+  {
+    "day": 37,
+    "muscle_mass_kg": 32.39283119384484,
+    "muscle_strength_index": 0.7265049999999981,
+    "bone_density_g_cm2": 1.0798320861506507,
+    "cardio_fitness_vo2max": 44.701268991957406,
+    "immune_competence_index": 0.8136899999999994,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.015793534030751923
+  },
+  {
+    "day": 38,
+    "muscle_mass_kg": 32.3251301766497,
+    "muscle_strength_index": 0.725869999999998,
+    "bone_density_g_cm2": 1.0792921701075753,
+    "cardio_fitness_vo2max": 44.693222763538856,
+    "immune_competence_index": 0.8140599999999993,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.016077663350136884
+  },
+  {
+    "day": 39,
+    "muscle_mass_kg": 32.257570654580505,
+    "muscle_strength_index": 0.725234999999998,
+    "bone_density_g_cm2": 1.0787525240225215,
+    "cardio_fitness_vo2max": 44.68517798344142,
+    "immune_competence_index": 0.8144299999999993,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.016356110083134145
+  },
+  {
+    "day": 40,
+    "muscle_mass_kg": 32.19015233191243,
+    "muscle_strength_index": 0.7245999999999979,
+    "bone_density_g_cm2": 1.0782131477605101,
+    "cardio_fitness_vo2max": 44.6771346514044,
+    "immune_competence_index": 0.8147999999999993,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.016628987881471463
+  },
+  {
+    "day": 41,
+    "muscle_mass_kg": 32.12287491353874,
+    "muscle_strength_index": 0.7239649999999979,
+    "bone_density_g_cm2": 1.07767404118663,
+    "cardio_fitness_vo2max": 44.66909276716715,
+    "immune_competence_index": 0.8151699999999993,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.016896408123842032
+  },
+  {
+    "day": 42,
+    "muscle_mass_kg": 32.05573810496944,
+    "muscle_strength_index": 0.7233299999999978,
+    "bone_density_g_cm2": 1.0771352041660365,
+    "cardio_fitness_vo2max": 44.661052330469055,
+    "immune_competence_index": 0.8155399999999993,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.01715847996136519
+  },
+  {
+    "day": 43,
+    "muscle_mass_kg": 31.98874161233006,
+    "muscle_strength_index": 0.7226949999999978,
+    "bone_density_g_cm2": 1.0765966365639534,
+    "cardio_fitness_vo2max": 44.65301334104957,
+    "immune_competence_index": 0.8159099999999992,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.017415310362137885
+  },
+  {
+    "day": 44,
+    "muscle_mass_kg": 31.921885142360292,
+    "muscle_strength_index": 0.7220599999999977,
+    "bone_density_g_cm2": 1.0760583382456714,
+    "cardio_fitness_vo2max": 44.64497579864818,
+    "immune_competence_index": 0.8162799999999992,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.017667004154895128
+  },
+  {
+    "day": 45,
+    "muscle_mass_kg": 31.85516840241276,
+    "muscle_strength_index": 0.7214249999999977,
+    "bone_density_g_cm2": 1.0755203090765486,
+    "cardio_fitness_vo2max": 44.63693970300443,
+    "immune_competence_index": 0.8166499999999992,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.017913664071797224
+  },
+  {
+    "day": 46,
+    "muscle_mass_kg": 31.788591100451722,
+    "muscle_strength_index": 0.7207899999999976,
+    "bone_density_g_cm2": 1.0749825489220102,
+    "cardio_fitness_vo2max": 44.62890505385789,
+    "immune_competence_index": 0.8170199999999992,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.01815539079036128
+  },
+  {
+    "day": 47,
+    "muscle_mass_kg": 31.722152945051775,
+    "muscle_strength_index": 0.7201549999999975,
+    "bone_density_g_cm2": 1.074445057647549,
+    "cardio_fitness_vo2max": 44.6208718509482,
+    "immune_competence_index": 0.8173899999999992,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.018392282974554055
+  },
+  {
+    "day": 48,
+    "muscle_mass_kg": 31.655853645396615,
+    "muscle_strength_index": 0.7195199999999975,
+    "bone_density_g_cm2": 1.0739078351187252,
+    "cardio_fitness_vo2max": 44.61284009401503,
+    "immune_competence_index": 0.8177599999999992,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.018624437315062973
+  },
+  {
+    "day": 49,
+    "muscle_mass_kg": 31.589692911277734,
+    "muscle_strength_index": 0.7188849999999974,
+    "bone_density_g_cm2": 1.0733708812011657,
+    "cardio_fitness_vo2max": 44.60480978279811,
+    "immune_competence_index": 0.8181299999999991,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.01885194856876171
+  },
+  {
+    "day": 50,
+    "muscle_mass_kg": 31.523670453093164,
+    "muscle_strength_index": 0.7182499999999974,
+    "bone_density_g_cm2": 1.0728341957605652,
+    "cardio_fitness_vo2max": 44.59678091703721,
+    "immune_competence_index": 0.8184999999999991,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.019074909597386478
+  },
+  {
+    "day": 51,
+    "muscle_mass_kg": 31.4577859818462,
+    "muscle_strength_index": 0.7176149999999973,
+    "bone_density_g_cm2": 1.0722977786626848,
+    "cardio_fitness_vo2max": 44.588753496472144,
+    "immune_competence_index": 0.8188699999999991,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.01929341140543875
+  },
+  {
+    "day": 52,
+    "muscle_mass_kg": 31.39203920914414,
+    "muscle_strength_index": 0.7169799999999973,
+    "bone_density_g_cm2": 1.0717616297733537,
+    "cardio_fitness_vo2max": 44.58072752084278,
+    "immune_competence_index": 0.8192399999999991,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.019507543177329972
+  },
+  {
+    "day": 53,
+    "muscle_mass_kg": 31.326429847197026,
+    "muscle_strength_index": 0.7163449999999972,
+    "bone_density_g_cm2": 1.0712257489584671,
+    "cardio_fitness_vo2max": 44.57270298988903,
+    "immune_competence_index": 0.8196099999999991,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.01971739231378337
+  },
+  {
+    "day": 54,
+    "muscle_mass_kg": 31.260957608816387,
+    "muscle_strength_index": 0.7157099999999972,
+    "bone_density_g_cm2": 1.070690136083988,
+    "cardio_fitness_vo2max": 44.56467990335085,
+    "immune_competence_index": 0.819979999999999,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.019923044467507704
+  },
+  {
+    "day": 55,
+    "muscle_mass_kg": 31.19562220741396,
+    "muscle_strength_index": 0.7150749999999971,
+    "bone_density_g_cm2": 1.0701547910159461,
+    "cardio_fitness_vo2max": 44.55665826096824,
+    "immune_competence_index": 0.820349999999999,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.020124583578157548
+  },
+  {
+    "day": 56,
+    "muscle_mass_kg": 31.130423357000467,
+    "muscle_strength_index": 0.7144399999999971,
+    "bone_density_g_cm2": 1.0696197136204382,
+    "cardio_fitness_vo2max": 44.54863806248127,
+    "immune_competence_index": 0.820719999999999,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.020322091906594397
+  },
+  {
+    "day": 57,
+    "muscle_mass_kg": 31.065360772184334,
+    "muscle_strength_index": 0.713804999999997,
+    "bone_density_g_cm2": 1.069084903763628,
+    "cardio_fitness_vo2max": 44.540619307630024,
+    "immune_competence_index": 0.821089999999999,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02051565006846251
+  },
+  {
+    "day": 58,
+    "muscle_mass_kg": 31.000434168170468,
+    "muscle_strength_index": 0.713169999999997,
+    "bone_density_g_cm2": 1.0685503613117464,
+    "cardio_fitness_vo2max": 44.53260199615465,
+    "immune_competence_index": 0.821459999999999,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02070533706709326
+  },
+  {
+    "day": 59,
+    "muscle_mass_kg": 30.93564326075899,
+    "muscle_strength_index": 0.7125349999999969,
+    "bone_density_g_cm2": 1.0680160861310906,
+    "cardio_fitness_vo2max": 44.524586127795345,
+    "immune_competence_index": 0.821829999999999,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02089123032575139
+  },
+  {
+    "day": 60,
+    "muscle_mass_kg": 30.870987766344005,
+    "muscle_strength_index": 0.7118999999999969,
+    "bone_density_g_cm2": 1.067482078088025,
+    "cardio_fitness_vo2max": 44.51657170229234,
+    "immune_competence_index": 0.8221999999999989,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02107340571923636
+  },
+  {
+    "day": 61,
+    "muscle_mass_kg": 30.806467401912347,
+    "muscle_strength_index": 0.7112649999999968,
+    "bone_density_g_cm2": 1.066948337048981,
+    "cardio_fitness_vo2max": 44.508558719385924,
+    "immune_competence_index": 0.8225699999999989,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.021251937604851633
+  },
+  {
+    "day": 62,
+    "muscle_mass_kg": 30.74208188504235,
+    "muscle_strength_index": 0.7106299999999968,
+    "bone_density_g_cm2": 1.0664148628804566,
+    "cardio_fitness_vo2max": 44.50054717881643,
+    "immune_competence_index": 0.8229399999999989,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.0214268988527546
+  },
+  {
+    "day": 63,
+    "muscle_mass_kg": 30.677830933902612,
+    "muscle_strength_index": 0.7099949999999967,
+    "bone_density_g_cm2": 1.0658816554490163,
+    "cardio_fitness_vo2max": 44.49253708032425,
+    "immune_competence_index": 0.8233099999999989,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.021598360875699506
+  },
+  {
+    "day": 64,
+    "muscle_mass_kg": 30.613714267250757,
+    "muscle_strength_index": 0.7093599999999967,
+    "bone_density_g_cm2": 1.0653487146212919,
+    "cardio_fitness_vo2max": 44.48452842364979,
+    "immune_competence_index": 0.8236799999999989,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.021766393658185515
+  },
+  {
+    "day": 65,
+    "muscle_mass_kg": 30.549731604432203,
+    "muscle_strength_index": 0.7087249999999966,
+    "bone_density_g_cm2": 1.0648160402639812,
+    "cardio_fitness_vo2max": 44.47652120853354,
+    "immune_competence_index": 0.8240499999999988,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.021931065785021804
+  },
+  {
+    "day": 66,
+    "muscle_mass_kg": 30.48588266537894,
+    "muscle_strength_index": 0.7080899999999966,
+    "bone_density_g_cm2": 1.0642836322438491,
+    "cardio_fitness_vo2max": 44.468515434716004,
+    "immune_competence_index": 0.8244199999999988,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.022092444469321366
+  },
+  {
+    "day": 67,
+    "muscle_mass_kg": 30.4221671706083,
+    "muscle_strength_index": 0.7074549999999965,
+    "bone_density_g_cm2": 1.0637514904277272,
+    "cardio_fitness_vo2max": 44.460511101937755,
+    "immune_competence_index": 0.8247899999999988,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02225059557993494
+  },
+  {
+    "day": 68,
+    "muscle_mass_kg": 30.35858484122173,
+    "muscle_strength_index": 0.7068199999999965,
+    "bone_density_g_cm2": 1.0632196146825135,
+    "cardio_fitness_vo2max": 44.4525082099394,
+    "immune_competence_index": 0.8251599999999988,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02240558366833624
+  },
+  {
+    "day": 69,
+    "muscle_mass_kg": 30.29513539890358,
+    "muscle_strength_index": 0.7061849999999964,
+    "bone_density_g_cm2": 1.0626880048751723,
+    "cardio_fitness_vo2max": 44.444506758461614,
+    "immune_competence_index": 0.8255299999999988,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.022557471994969516
+  },
+  {
+    "day": 70,
+    "muscle_mass_kg": 30.23181856591987,
+    "muscle_strength_index": 0.7055499999999963,
+    "bone_density_g_cm2": 1.0621566608727346,
+    "cardio_fitness_vo2max": 44.43650674724509,
+    "immune_competence_index": 0.8258999999999987,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.022706322555070126
+  },
+  {
+    "day": 71,
+    "muscle_mass_kg": 30.168634065117097,
+    "muscle_strength_index": 0.7049149999999963,
+    "bone_density_g_cm2": 1.0616255825422982,
+    "cardio_fitness_vo2max": 44.42850817603058,
+    "immune_competence_index": 0.8262699999999987,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.022852196103968724
+  },
+  {
+    "day": 72,
+    "muscle_mass_kg": 30.105581619921004,
+    "muscle_strength_index": 0.7042799999999962,
+    "bone_density_g_cm2": 1.0610947697510271,
+    "cardio_fitness_vo2max": 44.4205110445589,
+    "immune_competence_index": 0.8266399999999987,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02299515218188935
+  },
+  {
+    "day": 73,
+    "muscle_mass_kg": 30.042660954335368,
+    "muscle_strength_index": 0.7036449999999962,
+    "bone_density_g_cm2": 1.0605642223661516,
+    "cardio_fitness_vo2max": 44.41251535257088,
+    "immune_competence_index": 0.8270099999999987,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02313524913825156
+  },
+  {
+    "day": 74,
+    "muscle_mass_kg": 29.979871792940806,
+    "muscle_strength_index": 0.7030099999999961,
+    "bone_density_g_cm2": 1.0600339402549683,
+    "cardio_fitness_vo2max": 44.40452109980741,
+    "immune_competence_index": 0.8273799999999987,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02327254415548653
+  },
+  {
+    "day": 75,
+    "muscle_mass_kg": 29.91721386089356,
+    "muscle_strength_index": 0.7023749999999961,
+    "bone_density_g_cm2": 1.0595039232848409,
+    "cardio_fitness_vo2max": 44.39652828600945,
+    "immune_competence_index": 0.8277499999999987,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.0234070932723768
+  },
+  {
+    "day": 76,
+    "muscle_mass_kg": 29.854686883924295,
+    "muscle_strength_index": 0.701739999999996,
+    "bone_density_g_cm2": 1.0589741713231986,
+    "cardio_fitness_vo2max": 44.38853691091797,
+    "immune_competence_index": 0.8281199999999986,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.023538951406929264
+  },
+  {
+    "day": 77,
+    "muscle_mass_kg": 29.79229058833689,
+    "muscle_strength_index": 0.701104999999996,
+    "bone_density_g_cm2": 1.058444684237537,
+    "cardio_fitness_vo2max": 44.380546974274004,
+    "immune_competence_index": 0.8284899999999986,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.023668172378790677
+  },
+  {
+    "day": 78,
+    "muscle_mass_kg": 29.730024701007263,
+    "muscle_strength_index": 0.7004699999999959,
+    "bone_density_g_cm2": 1.0579154618954183,
+    "cardio_fitness_vo2max": 44.372558475818636,
+    "immune_competence_index": 0.8288599999999986,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.023794808931214863
+  },
+  {
+    "day": 79,
+    "muscle_mass_kg": 29.667888949382156,
+    "muscle_strength_index": 0.6998349999999959,
+    "bone_density_g_cm2": 1.0573865041644706,
+    "cardio_fitness_vo2max": 44.36457141529299,
+    "immune_competence_index": 0.8292299999999986,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.023918912752590563
+  },
+  {
+    "day": 80,
+    "muscle_mass_kg": 29.605883061477947,
+    "muscle_strength_index": 0.6991999999999958,
+    "bone_density_g_cm2": 1.0568578109123883,
+    "cardio_fitness_vo2max": 44.35658579243824,
+    "immune_competence_index": 0.8295999999999986,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.024040534497538752
+  },
+  {
+    "day": 81,
+    "muscle_mass_kg": 29.544006765879455,
+    "muscle_strength_index": 0.6985649999999958,
+    "bone_density_g_cm2": 1.056329382006932,
+    "cardio_fitness_vo2max": 44.3486016069956,
+    "immune_competence_index": 0.8299699999999985,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.024159723807587977
+  },
+  {
+    "day": 82,
+    "muscle_mass_kg": 29.482259791738766,
+    "muscle_strength_index": 0.6979299999999957,
+    "bone_density_g_cm2": 1.0558012173159284,
+    "cardio_fitness_vo2max": 44.34061885870634,
+    "immune_competence_index": 0.8303399999999985,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.024276529331436217
+  },
+  {
+    "day": 83,
+    "muscle_mass_kg": 29.42064186877403,
+    "muscle_strength_index": 0.6972949999999957,
+    "bone_density_g_cm2": 1.0552733167072705,
+    "cardio_fitness_vo2max": 44.332637547311776,
+    "immune_competence_index": 0.8307099999999985,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02439099874480749
+  },
+  {
+    "day": 84,
+    "muscle_mass_kg": 29.35915272726829,
+    "muscle_strength_index": 0.6966599999999956,
+    "bone_density_g_cm2": 1.0547456800489168,
+    "cardio_fitness_vo2max": 44.32465767255326,
+    "immune_competence_index": 0.8310799999999985,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02450317876991134
+  },
+  {
+    "day": 85,
+    "muscle_mass_kg": 29.297792098068303,
+    "muscle_strength_index": 0.6960249999999956,
+    "bone_density_g_cm2": 1.0542183072088922,
+    "cardio_fitness_vo2max": 44.3166792341722,
+    "immune_competence_index": 0.8314499999999985,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.024613115194513112
+  },
+  {
+    "day": 86,
+    "muscle_mass_kg": 29.23655971258334,
+    "muscle_strength_index": 0.6953899999999955,
+    "bone_density_g_cm2": 1.0536911980552879,
+    "cardio_fitness_vo2max": 44.30870223191005,
+    "immune_competence_index": 0.8318199999999984,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.024720852890622848
+  },
+  {
+    "day": 87,
+    "muscle_mass_kg": 29.17545530278404,
+    "muscle_strength_index": 0.6947549999999955,
+    "bone_density_g_cm2": 1.0531643524562604,
+    "cardio_fitness_vo2max": 44.30072666550831,
+    "immune_competence_index": 0.8321899999999984,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02482643583281039
+  },
+  {
+    "day": 88,
+    "muscle_mass_kg": 29.11447860120122,
+    "muscle_strength_index": 0.6941199999999954,
+    "bone_density_g_cm2": 1.0526377702800322,
+    "cardio_fitness_vo2max": 44.29275253470852,
+    "immune_competence_index": 0.8325599999999984,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02492990711615418
+  },
+  {
+    "day": 89,
+    "muscle_mass_kg": 29.05362934092471,
+    "muscle_strength_index": 0.6934849999999954,
+    "bone_density_g_cm2": 1.0521114513948924,
+    "cardio_fitness_vo2max": 44.28477983925227,
+    "immune_competence_index": 0.8329299999999984,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.025031308973831098
+  },
+  {
+    "day": 90,
+    "muscle_mass_kg": 28.99290725560218,
+    "muscle_strength_index": 0.6928499999999953,
+    "bone_density_g_cm2": 1.051585395669195,
+    "cardio_fitness_vo2max": 44.27680857888121,
+    "immune_competence_index": 0.8332999999999984,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.025130682794354476
+  },
+  {
+    "day": 91,
+    "muscle_mass_kg": 28.93231207943797,
+    "muscle_strength_index": 0.6922149999999953,
+    "bone_density_g_cm2": 1.0510596029713604,
+    "cardio_fitness_vo2max": 44.26883875333701,
+    "immune_competence_index": 0.8336699999999984,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.025228069138467386
+  },
+  {
+    "day": 92,
+    "muscle_mass_kg": 28.871843547191943,
+    "muscle_strength_index": 0.6915799999999952,
+    "bone_density_g_cm2": 1.0505340731698747,
+    "cardio_fitness_vo2max": 44.26087036236141,
+    "immune_competence_index": 0.8340399999999983,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.025323507755698037
+  },
+  {
+    "day": 93,
+    "muscle_mass_kg": 28.81150139417831,
+    "muscle_strength_index": 0.6909449999999951,
+    "bone_density_g_cm2": 1.0500088061332897,
+    "cardio_fitness_vo2max": 44.25290340569619,
+    "immune_competence_index": 0.8344099999999983,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.025417037600584075
+  },
+  {
+    "day": 94,
+    "muscle_mass_kg": 28.75128535626448,
+    "muscle_strength_index": 0.6903099999999951,
+    "bone_density_g_cm2": 1.049483801730223,
+    "cardio_fitness_vo2max": 44.24493788308316,
+    "immune_competence_index": 0.8347799999999983,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.025508696848572394
+  },
+  {
+    "day": 95,
+    "muscle_mass_kg": 28.691195169869886,
+    "muscle_strength_index": 0.689674999999995,
+    "bone_density_g_cm2": 1.0489590598293579,
+    "cardio_fitness_vo2max": 44.23697379426421,
+    "immune_competence_index": 0.8351499999999983,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.025598522911600946
+  },
+  {
+    "day": 96,
+    "muscle_mass_kg": 28.631230571964856,
+    "muscle_strength_index": 0.689039999999995,
+    "bone_density_g_cm2": 1.0484345802994433,
+    "cardio_fitness_vo2max": 44.22901113898124,
+    "immune_competence_index": 0.8355199999999983,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.025686552453368927
+  },
+  {
+    "day": 97,
+    "muscle_mass_kg": 28.57139130006945,
+    "muscle_strength_index": 0.6884049999999949,
+    "bone_density_g_cm2": 1.0479103630092934,
+    "cardio_fitness_vo2max": 44.22104991697623,
+    "immune_competence_index": 0.8358899999999982,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02577282140430155
+  },
+  {
+    "day": 98,
+    "muscle_mass_kg": 28.511677092252306,
+    "muscle_strength_index": 0.6877699999999949,
+    "bone_density_g_cm2": 1.0473864078277888,
+    "cardio_fitness_vo2max": 44.213090127991165,
+    "immune_competence_index": 0.8362599999999982,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.025857364976215515
+  },
+  {
+    "day": 99,
+    "muscle_mass_kg": 28.4520876871295,
+    "muscle_strength_index": 0.6871349999999948,
+    "bone_density_g_cm2": 1.046862714623875,
+    "cardio_fitness_vo2max": 44.20513177176813,
+    "immune_competence_index": 0.8366299999999982,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.025940217676691205
+  },
+  {
+    "day": 100,
+    "muscle_mass_kg": 28.392622823863398,
+    "muscle_strength_index": 0.6864999999999948,
+    "bone_density_g_cm2": 1.046339283266563,
+    "cardio_fitness_vo2max": 44.19717484804921,
+    "immune_competence_index": 0.8369999999999982,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02602141332315738
+  },
+  {
+    "day": 101,
+    "muscle_mass_kg": 28.333282242161523,
+    "muscle_strength_index": 0.6858649999999947,
+    "bone_density_g_cm2": 1.0458161136249298,
+    "cardio_fitness_vo2max": 44.189219356576565,
+    "immune_competence_index": 0.8373699999999982,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.026100985056694233
+  },
+  {
+    "day": 102,
+    "muscle_mass_kg": 28.274065682275403,
+    "muscle_strength_index": 0.6852299999999947,
+    "bone_density_g_cm2": 1.0452932055681174,
+    "cardio_fitness_vo2max": 44.18126529709239,
+    "immune_competence_index": 0.8377399999999982,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.026178965355560347
+  },
+  {
+    "day": 103,
+    "muscle_mass_kg": 28.214972884999447,
+    "muscle_strength_index": 0.6845949999999946,
+    "bone_density_g_cm2": 1.0447705589653336,
+    "cardio_fitness_vo2max": 44.17331266933891,
+    "immune_competence_index": 0.8381099999999981,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02625538604844914
+  },
+  {
+    "day": 104,
+    "muscle_mass_kg": 28.156003591669798,
+    "muscle_strength_index": 0.6839599999999946,
+    "bone_density_g_cm2": 1.0442481736858509,
+    "cardio_fitness_vo2max": 44.16536147305843,
+    "immune_competence_index": 0.8384799999999981,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.026330278327480156
+  },
+  {
+    "day": 105,
+    "muscle_mass_kg": 28.09715754416321,
+    "muscle_strength_index": 0.6833249999999945,
+    "bone_density_g_cm2": 1.043726049599008,
+    "cardio_fitness_vo2max": 44.15741170799328,
+    "immune_competence_index": 0.8388499999999981,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02640367276093055
+  },
+  {
+    "day": 106,
+    "muscle_mass_kg": 28.03843448489591,
+    "muscle_strength_index": 0.6826899999999945,
+    "bone_density_g_cm2": 1.0432041865742083,
+    "cardio_fitness_vo2max": 44.149463373885844,
+    "immune_competence_index": 0.8392199999999981,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02647559930571194
+  },
+  {
+    "day": 107,
+    "muscle_mass_kg": 27.979834156822477,
+    "muscle_strength_index": 0.6820549999999944,
+    "bone_density_g_cm2": 1.042682584480921,
+    "cardio_fitness_vo2max": 44.14151647047855,
+    "immune_competence_index": 0.8395899999999981,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.026546087319597702
+  },
+  {
+    "day": 108,
+    "muscle_mass_kg": 27.921356303434717,
+    "muscle_strength_index": 0.6814199999999944,
+    "bone_density_g_cm2": 1.0421612431886806,
+    "cardio_fitness_vo2max": 44.133570997513864,
+    "immune_competence_index": 0.839959999999998,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.026615165573205746
+  },
+  {
+    "day": 109,
+    "muscle_mass_kg": 27.863000668760538,
+    "muscle_strength_index": 0.6807849999999943,
+    "bone_density_g_cm2": 1.0416401625670861,
+    "cardio_fitness_vo2max": 44.125626954734315,
+    "immune_competence_index": 0.840329999999998,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02668286226174163
+  },
+  {
+    "day": 110,
+    "muscle_mass_kg": 27.80476699736283,
+    "muscle_strength_index": 0.6801499999999943,
+    "bone_density_g_cm2": 1.0411193424858027,
+    "cardio_fitness_vo2max": 44.117684341882466,
+    "immune_competence_index": 0.840699999999998,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.026749205016506798
+  },
+  {
+    "day": 111,
+    "muscle_mass_kg": 27.74665503433834,
+    "muscle_strength_index": 0.6795149999999942,
+    "bone_density_g_cm2": 1.04059878281456,
+    "cardio_fitness_vo2max": 44.10974315870093,
+    "immune_competence_index": 0.841069999999998,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.026814220916176662
+  },
+  {
+    "day": 112,
+    "muscle_mass_kg": 27.68866452531657,
+    "muscle_strength_index": 0.6788799999999942,
+    "bone_density_g_cm2": 1.0400784834231527,
+    "cardio_fitness_vo2max": 44.10180340493237,
+    "immune_competence_index": 0.841439999999998,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02687793649785313
+  },
+  {
+    "day": 113,
+    "muscle_mass_kg": 27.63079521645866,
+    "muscle_strength_index": 0.6782449999999941,
+    "bone_density_g_cm2": 1.039558444181441,
+    "cardio_fitness_vo2max": 44.09386508031948,
+    "immune_competence_index": 0.841809999999998,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.026940377767896064
+  },
+  {
+    "day": 114,
+    "muscle_mass_kg": 27.573046854456262,
+    "muscle_strength_index": 0.677609999999994,
+    "bone_density_g_cm2": 1.0390386649593504,
+    "cardio_fitness_vo2max": 44.085928184605024,
+    "immune_competence_index": 0.8421799999999979,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027001570212538142
+  },
+  {
+    "day": 115,
+    "muscle_mass_kg": 27.515419186530448,
+    "muscle_strength_index": 0.676974999999994,
+    "bone_density_g_cm2": 1.0385191456268708,
+    "cardio_fitness_vo2max": 44.0779927175318,
+    "immune_competence_index": 0.8425499999999979,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027061538808287378
+  },
+  {
+    "day": 116,
+    "muscle_mass_kg": 27.457911960430597,
+    "muscle_strength_index": 0.676339999999994,
+    "bone_density_g_cm2": 1.0379998860540574,
+    "cardio_fitness_vo2max": 44.07005867884264,
+    "immune_competence_index": 0.8429199999999979,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02712030803212163
+  },
+  {
+    "day": 117,
+    "muscle_mass_kg": 27.4005249244333,
+    "muscle_strength_index": 0.6757049999999939,
+    "bone_density_g_cm2": 1.0374808861110303,
+    "cardio_fitness_vo2max": 44.062126068280456,
+    "immune_competence_index": 0.8432899999999979,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.0271779018714792
+  },
+  {
+    "day": 118,
+    "muscle_mass_kg": 27.343257827341233,
+    "muscle_strength_index": 0.6750699999999938,
+    "bone_density_g_cm2": 1.0369621456679747,
+    "cardio_fitness_vo2max": 44.05419488558817,
+    "immune_competence_index": 0.8436599999999979,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027234343834049615
+  },
+  {
+    "day": 119,
+    "muscle_mass_kg": 27.28611041848209,
+    "muscle_strength_index": 0.6744349999999938,
+    "bone_density_g_cm2": 1.0364436645951407,
+    "cardio_fitness_vo2max": 44.04626513050876,
+    "immune_competence_index": 0.8440299999999978,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02728965695736862
+  },
+  {
+    "day": 120,
+    "muscle_mass_kg": 27.229082447707462,
+    "muscle_strength_index": 0.6737999999999937,
+    "bone_density_g_cm2": 1.0359254427628433,
+    "cardio_fitness_vo2max": 44.03833680278527,
+    "immune_competence_index": 0.8443999999999978,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027343863818221247
+  },
+  {
+    "day": 121,
+    "muscle_mass_kg": 27.172173665391753,
+    "muscle_strength_index": 0.6731649999999937,
+    "bone_density_g_cm2": 1.0354074800414619,
+    "cardio_fitness_vo2max": 44.03040990216076,
+    "immune_competence_index": 0.8447699999999978,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02739698654185682
+  },
+  {
+    "day": 122,
+    "muscle_mass_kg": 27.115383822431085,
+    "muscle_strength_index": 0.6725299999999936,
+    "bone_density_g_cm2": 1.0348897763014413,
+    "cardio_fitness_vo2max": 44.02248442837838,
+    "immune_competence_index": 0.8451399999999978,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027449046811019683
+  },
+  {
+    "day": 123,
+    "muscle_mass_kg": 27.058712670242205,
+    "muscle_strength_index": 0.6718949999999936,
+    "bone_density_g_cm2": 1.0343723314132904,
+    "cardio_fitness_vo2max": 44.01456038118127,
+    "immune_competence_index": 0.8455099999999978,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02750006587479929
+  },
+  {
+    "day": 124,
+    "muscle_mass_kg": 27.0021599607614,
+    "muscle_strength_index": 0.6712599999999935,
+    "bone_density_g_cm2": 1.033855145247584,
+    "cardio_fitness_vo2max": 44.00663776031266,
+    "immune_competence_index": 0.8458799999999977,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027550064557303303
+  },
+  {
+    "day": 125,
+    "muscle_mass_kg": 26.945725446443408,
+    "muscle_strength_index": 0.6706249999999935,
+    "bone_density_g_cm2": 1.0333382176749601,
+    "cardio_fitness_vo2max": 43.9987165655158,
+    "immune_competence_index": 0.8462499999999977,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027599063266157235
+  },
+  {
+    "day": 126,
+    "muscle_mass_kg": 26.88940888026034,
+    "muscle_strength_index": 0.6699899999999934,
+    "bone_density_g_cm2": 1.0328215485661225,
+    "cardio_fitness_vo2max": 43.990796796534006,
+    "immune_competence_index": 0.8466199999999977,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02764708200083409
+  },
+  {
+    "day": 127,
+    "muscle_mass_kg": 26.833210015700594,
+    "muscle_strength_index": 0.6693549999999934,
+    "bone_density_g_cm2": 1.0323051377918393,
+    "cardio_fitness_vo2max": 43.98287845311063,
+    "immune_competence_index": 0.8469899999999977,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027694140360817406
+  },
+  {
+    "day": 128,
+    "muscle_mass_kg": 26.777128606767782,
+    "muscle_strength_index": 0.6687199999999933,
+    "bone_density_g_cm2": 1.0317889852229434,
+    "cardio_fitness_vo2max": 43.97496153498907,
+    "immune_competence_index": 0.8473599999999977,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027740257553601058
+  },
+  {
+    "day": 129,
+    "muscle_mass_kg": 26.721164407979636,
+    "muscle_strength_index": 0.6680849999999933,
+    "bone_density_g_cm2": 1.031273090730332,
+    "cardio_fitness_vo2max": 43.96704604191277,
+    "immune_competence_index": 0.8477299999999977,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027785452402529037
+  },
+  {
+    "day": 130,
+    "muscle_mass_kg": 26.665317174366958,
+    "muscle_strength_index": 0.6674499999999932,
+    "bone_density_g_cm2": 1.030757454184967,
+    "cardio_fitness_vo2max": 43.959131973625226,
+    "immune_competence_index": 0.8480999999999976,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027829743354478454
+  },
+  {
+    "day": 131,
+    "muscle_mass_kg": 26.60958666147253,
+    "muscle_strength_index": 0.6668149999999932,
+    "bone_density_g_cm2": 1.0302420754578743,
+    "cardio_fitness_vo2max": 43.95121932986997,
+    "immune_competence_index": 0.8484699999999976,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027873148487388883
+  },
+  {
+    "day": 132,
+    "muscle_mass_kg": 26.553972625350056,
+    "muscle_strength_index": 0.6661799999999931,
+    "bone_density_g_cm2": 1.0297269544201455,
+    "cardio_fitness_vo2max": 43.943308110390596,
+    "immune_competence_index": 0.8488399999999976,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027915685517641106
+  },
+  {
+    "day": 133,
+    "muscle_mass_kg": 26.498474822563075,
+    "muscle_strength_index": 0.6655449999999931,
+    "bone_density_g_cm2": 1.0292120909429354,
+    "cardio_fitness_vo2max": 43.93539831493073,
+    "immune_competence_index": 0.8492099999999976,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027957371807288283
+  },
+  {
+    "day": 134,
+    "muscle_mass_kg": 26.443093010183915,
+    "muscle_strength_index": 0.664909999999993,
+    "bone_density_g_cm2": 1.028697484897464,
+    "cardio_fitness_vo2max": 43.927489943234036,
+    "immune_competence_index": 0.8495799999999976,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.027998224371142518
+  },
+  {
+    "day": 135,
+    "muscle_mass_kg": 26.38782694579263,
+    "muscle_strength_index": 0.664274999999993,
+    "bone_density_g_cm2": 1.0281831361550153,
+    "cardio_fitness_vo2max": 43.91958299504426,
+    "immune_competence_index": 0.8499499999999975,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028038259883719666
+  },
+  {
+    "day": 136,
+    "muscle_mass_kg": 26.332676387475924,
+    "muscle_strength_index": 0.6636399999999929,
+    "bone_density_g_cm2": 1.0276690445869379,
+    "cardio_fitness_vo2max": 43.91167747010515,
+    "immune_competence_index": 0.8503199999999975,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02807749468604527
+  },
+  {
+    "day": 137,
+    "muscle_mass_kg": 26.2776410938261,
+    "muscle_strength_index": 0.6630049999999929,
+    "bone_density_g_cm2": 1.0271552100646444,
+    "cardio_fitness_vo2max": 43.90377336816053,
+    "immune_competence_index": 0.8506899999999975,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028115944792324366
+  },
+  {
+    "day": 138,
+    "muscle_mass_kg": 26.222720823940005,
+    "muscle_strength_index": 0.6623699999999928,
+    "bone_density_g_cm2": 1.026641632459612,
+    "cardio_fitness_vo2max": 43.89587068895426,
+    "immune_competence_index": 0.8510599999999975,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02815362589647788
+  },
+  {
+    "day": 139,
+    "muscle_mass_kg": 26.16791533741797,
+    "muscle_strength_index": 0.6617349999999927,
+    "bone_density_g_cm2": 1.0261283116433821,
+    "cardio_fitness_vo2max": 43.88796943223025,
+    "immune_competence_index": 0.8514299999999975,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02819055337854832
+  },
+  {
+    "day": 140,
+    "muscle_mass_kg": 26.113224394362767,
+    "muscle_strength_index": 0.6610999999999927,
+    "bone_density_g_cm2": 1.0256152474875606,
+    "cardio_fitness_vo2max": 43.88006959773245,
+    "immune_competence_index": 0.8517999999999974,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028226742310977354
+  },
+  {
+    "day": 141,
+    "muscle_mass_kg": 26.058647755378548,
+    "muscle_strength_index": 0.6604649999999926,
+    "bone_density_g_cm2": 1.0251024398638169,
+    "cardio_fitness_vo2max": 43.872171185204856,
+    "immune_competence_index": 0.8521699999999974,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028262207464757806
+  },
+  {
+    "day": 142,
+    "muscle_mass_kg": 26.004185181569806,
+    "muscle_strength_index": 0.6598299999999926,
+    "bone_density_g_cm2": 1.0245898886438851,
+    "cardio_fitness_vo2max": 43.86427419439152,
+    "immune_competence_index": 0.8525399999999974,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02829696331546265
+  },
+  {
+    "day": 143,
+    "muscle_mass_kg": 25.949836434540323,
+    "muscle_strength_index": 0.6591949999999925,
+    "bone_density_g_cm2": 1.0240775936995632,
+    "cardio_fitness_vo2max": 43.856378625036534,
+    "immune_competence_index": 0.8529099999999974,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028331024049153396
+  },
+  {
+    "day": 144,
+    "muscle_mass_kg": 25.89560127639213,
+    "muscle_strength_index": 0.6585599999999925,
+    "bone_density_g_cm2": 1.0235655549027134,
+    "cardio_fitness_vo2max": 43.848484476884025,
+    "immune_competence_index": 0.8532799999999974,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028364403568170327
+  },
+  {
+    "day": 145,
+    "muscle_mass_kg": 25.841479469724472,
+    "muscle_strength_index": 0.6579249999999924,
+    "bone_density_g_cm2": 1.0230537721252622,
+    "cardio_fitness_vo2max": 43.84059174967819,
+    "immune_competence_index": 0.8536499999999974,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02839711549680692
+  },
+  {
+    "day": 146,
+    "muscle_mass_kg": 25.78747077763275,
+    "muscle_strength_index": 0.6572899999999924,
+    "bone_density_g_cm2": 1.0225422452391997,
+    "cardio_fitness_vo2max": 43.83270044316325,
+    "immune_competence_index": 0.8540199999999973,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02842917318687078
+  },
+  {
+    "day": 147,
+    "muscle_mass_kg": 25.733574963707493,
+    "muscle_strength_index": 0.6566549999999923,
+    "bone_density_g_cm2": 1.02203097411658,
+    "cardio_fitness_vo2max": 43.824810557083474,
+    "immune_competence_index": 0.8543899999999973,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028460589723133364
+  },
+  {
+    "day": 148,
+    "muscle_mass_kg": 25.679791792033345,
+    "muscle_strength_index": 0.6560199999999923,
+    "bone_density_g_cm2": 1.0215199586295216,
+    "cardio_fitness_vo2max": 43.8169220911832,
+    "immune_competence_index": 0.8547599999999973,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028491377928670694
+  },
+  {
+    "day": 149,
+    "muscle_mass_kg": 25.626121027187995,
+    "muscle_strength_index": 0.6553849999999922,
+    "bone_density_g_cm2": 1.021009198650207,
+    "cardio_fitness_vo2max": 43.80903504520679,
+    "immune_competence_index": 0.8551299999999973,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02852155037009728
+  },
+  {
+    "day": 150,
+    "muscle_mass_kg": 25.57256243424117,
+    "muscle_strength_index": 0.6547499999999922,
+    "bone_density_g_cm2": 1.0204986940508818,
+    "cardio_fitness_vo2max": 43.80114941889865,
+    "immune_competence_index": 0.8554999999999973,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028551119362695332
+  },
+  {
+    "day": 151,
+    "muscle_mass_kg": 25.51911577875361,
+    "muscle_strength_index": 0.6541149999999921,
+    "bone_density_g_cm2": 1.0199884447038563,
+    "cardio_fitness_vo2max": 43.793265212003256,
+    "immune_competence_index": 0.8558699999999972,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028580096975441425
+  },
+  {
+    "day": 152,
+    "muscle_mass_kg": 25.46578082677601,
+    "muscle_strength_index": 0.6534799999999921,
+    "bone_density_g_cm2": 1.0194784504815044,
+    "cardio_fitness_vo2max": 43.785382424265094,
+    "immune_competence_index": 0.8562399999999972,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028608495035932595
+  },
+  {
+    "day": 153,
+    "muscle_mass_kg": 25.41255734484805,
+    "muscle_strength_index": 0.652844999999992,
+    "bone_density_g_cm2": 1.0189687112562635,
+    "cardio_fitness_vo2max": 43.77750105542873,
+    "immune_competence_index": 0.8566099999999972,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02863632513521394
+  },
+  {
+    "day": 154,
+    "muscle_mass_kg": 25.359445099997316,
+    "muscle_strength_index": 0.652209999999992,
+    "bone_density_g_cm2": 1.0184592269006354,
+    "cardio_fitness_vo2max": 43.76962110523875,
+    "immune_competence_index": 0.8569799999999972,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02866359863250966
+  },
+  {
+    "day": 155,
+    "muscle_mass_kg": 25.30644385973832,
+    "muscle_strength_index": 0.6515749999999919,
+    "bone_density_g_cm2": 1.017949997287185,
+    "cardio_fitness_vo2max": 43.761742573439804,
+    "immune_competence_index": 0.8573499999999972,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028690326659859468
+  },
+  {
+    "day": 156,
+    "muscle_mass_kg": 25.253553392071467,
+    "muscle_strength_index": 0.6509399999999919,
+    "bone_density_g_cm2": 1.0174410222885415,
+    "cardio_fitness_vo2max": 43.753865459776584,
+    "immune_competence_index": 0.8577199999999972,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028716520126662277
+  },
+  {
+    "day": 157,
+    "muscle_mass_kg": 25.200773465482037,
+    "muscle_strength_index": 0.6503049999999918,
+    "bone_density_g_cm2": 1.0169323017773972,
+    "cardio_fitness_vo2max": 43.745989763993826,
+    "immune_competence_index": 0.8580899999999971,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02874218972412903
+  },
+  {
+    "day": 158,
+    "muscle_mass_kg": 25.14810384893918,
+    "muscle_strength_index": 0.6496699999999918,
+    "bone_density_g_cm2": 1.0164238356265085,
+    "cardio_fitness_vo2max": 43.7381154858363,
+    "immune_competence_index": 0.8584599999999971,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028767345929646446
+  },
+  {
+    "day": 159,
+    "muscle_mass_kg": 25.095544311894898,
+    "muscle_strength_index": 0.6490349999999917,
+    "bone_density_g_cm2": 1.0159156237086953,
+    "cardio_fitness_vo2max": 43.73024262504885,
+    "immune_competence_index": 0.8588299999999971,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028791999011053518
+  },
+  {
+    "day": 160,
+    "muscle_mass_kg": 25.043094624283036,
+    "muscle_strength_index": 0.6483999999999916,
+    "bone_density_g_cm2": 1.015407665896841,
+    "cardio_fitness_vo2max": 43.722371181376346,
+    "immune_competence_index": 0.8591999999999971,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028816159030832445
+  },
+  {
+    "day": 161,
+    "muscle_mass_kg": 24.990754556518286,
+    "muscle_strength_index": 0.6477649999999916,
+    "bone_density_g_cm2": 1.0148999620638925,
+    "cardio_fitness_vo2max": 43.71450115456369,
+    "immune_competence_index": 0.8595699999999971,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028839835850215795
+  },
+  {
+    "day": 162,
+    "muscle_mass_kg": 24.938523879495165,
+    "muscle_strength_index": 0.6471299999999915,
+    "bone_density_g_cm2": 1.0143925120828607,
+    "cardio_fitness_vo2max": 43.70663254435587,
+    "immune_competence_index": 0.859939999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028863039133211477
+  },
+  {
+    "day": 163,
+    "muscle_mass_kg": 24.88640236458702,
+    "muscle_strength_index": 0.6464949999999915,
+    "bone_density_g_cm2": 1.0138853158268193,
+    "cardio_fitness_vo2max": 43.69876535049789,
+    "immune_competence_index": 0.860309999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028885778350547245
+  },
+  {
+    "day": 164,
+    "muscle_mass_kg": 24.834389783645037,
+    "muscle_strength_index": 0.6458599999999914,
+    "bone_density_g_cm2": 1.0133783731689059,
+    "cardio_fitness_vo2max": 43.69089957273479,
+    "immune_competence_index": 0.860679999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.0289080627835363
+  },
+  {
+    "day": 165,
+    "muscle_mass_kg": 24.782485908997216,
+    "muscle_strength_index": 0.6452249999999914,
+    "bone_density_g_cm2": 1.0128716839823213,
+    "cardio_fitness_vo2max": 43.6830352108117,
+    "immune_competence_index": 0.861049999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028929901527865575
+  },
+  {
+    "day": 166,
+    "muscle_mass_kg": 24.730690513447414,
+    "muscle_strength_index": 0.6445899999999913,
+    "bone_density_g_cm2": 1.01236524814033,
+    "cardio_fitness_vo2max": 43.67517226447376,
+    "immune_competence_index": 0.861419999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02895130349730826
+  },
+  {
+    "day": 167,
+    "muscle_mass_kg": 24.67900337027431,
+    "muscle_strength_index": 0.6439549999999913,
+    "bone_density_g_cm2": 1.0118590655162598,
+    "cardio_fitness_vo2max": 43.66731073346615,
+    "immune_competence_index": 0.861789999999997,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.028972277427362095
+  },
+  {
+    "day": 168,
+    "muscle_mass_kg": 24.627424253230437,
+    "muscle_strength_index": 0.6433199999999912,
+    "bone_density_g_cm2": 1.0113531359835017,
+    "cardio_fitness_vo2max": 43.659450617534134,
+    "immune_competence_index": 0.8621599999999969,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02899283187881485
+  },
+  {
+    "day": 169,
+    "muscle_mass_kg": 24.57595293654119,
+    "muscle_strength_index": 0.6426849999999912,
+    "bone_density_g_cm2": 1.0108474594155101,
+    "cardio_fitness_vo2max": 43.65159191642298,
+    "immune_competence_index": 0.8625299999999969,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.029012975241238553
+  },
+  {
+    "day": 170,
+    "muscle_mass_kg": 24.524589194903818,
+    "muscle_strength_index": 0.6420499999999911,
+    "bone_density_g_cm2": 1.0103420356858024,
+    "cardio_fitness_vo2max": 43.643734629878026,
+    "immune_competence_index": 0.8628999999999969,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02903271573641378
+  },
+  {
+    "day": 171,
+    "muscle_mass_kg": 24.473332803486468,
+    "muscle_strength_index": 0.6414149999999911,
+    "bone_density_g_cm2": 1.0098368646679596,
+    "cardio_fitness_vo2max": 43.63587875764465,
+    "immune_competence_index": 0.8632699999999969,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.029052061421685507
+  },
+  {
+    "day": 172,
+    "muscle_mass_kg": 24.422183537927182,
+    "muscle_strength_index": 0.640779999999991,
+    "bone_density_g_cm2": 1.0093319462356256,
+    "cardio_fitness_vo2max": 43.62802429946827,
+    "immune_competence_index": 0.8636399999999969,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.029071020193251796
+  },
+  {
+    "day": 173,
+    "muscle_mass_kg": 24.371141174332916,
+    "muscle_strength_index": 0.640144999999991,
+    "bone_density_g_cm2": 1.0088272802625078,
+    "cardio_fitness_vo2max": 43.62017125509437,
+    "immune_competence_index": 0.8640099999999968,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.029089599789386758
+  },
+  {
+    "day": 174,
+    "muscle_mass_kg": 24.32020548927856,
+    "muscle_strength_index": 0.6395099999999909,
+    "bone_density_g_cm2": 1.0083228666223767,
+    "cardio_fitness_vo2max": 43.61231962426845,
+    "immune_competence_index": 0.8643799999999968,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.029107807793599023
+  },
+  {
+    "day": 175,
+    "muscle_mass_kg": 24.26937625980597,
+    "muscle_strength_index": 0.6388749999999909,
+    "bone_density_g_cm2": 1.0078187051890655,
+    "cardio_fitness_vo2max": 43.60446940673608,
+    "immune_competence_index": 0.8647499999999968,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.02912565163772704
+  },
+  {
+    "day": 176,
+    "muscle_mass_kg": 24.218653263422976,
+    "muscle_strength_index": 0.6382399999999908,
+    "bone_density_g_cm2": 1.007314795836471,
+    "cardio_fitness_vo2max": 43.596620602242865,
+    "immune_competence_index": 0.8651199999999968,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.029143138604972498
+  },
+  {
+    "day": 177,
+    "muscle_mass_kg": 24.168036278102424,
+    "muscle_strength_index": 0.6376049999999908,
+    "bone_density_g_cm2": 1.0068111384385527,
+    "cardio_fitness_vo2max": 43.588773210534455,
+    "immune_competence_index": 0.8654899999999968,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.029160275832873048
+  },
+  {
+    "day": 178,
+    "muscle_mass_kg": 24.117525082281187,
+    "muscle_strength_index": 0.6369699999999907,
+    "bone_density_g_cm2": 1.0063077328693335,
+    "cardio_fitness_vo2max": 43.58092723135656,
+    "immune_competence_index": 0.8658599999999967,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.029177070316215584
+  },
+  {
+    "day": 179,
+    "muscle_mass_kg": 24.06711945485922,
+    "muscle_strength_index": 0.6363349999999907,
+    "bone_density_g_cm2": 1.0058045790028989,
+    "cardio_fitness_vo2max": 43.573082664454915,
+    "immune_competence_index": 0.8662299999999967,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.029193528909891273
+  },
+  {
+    "day": 180,
+    "muscle_mass_kg": 24.016819175198567,
+    "muscle_strength_index": 0.6356999999999906,
+    "bone_density_g_cm2": 1.0053016767133973,
+    "cardio_fitness_vo2max": 43.56523950957531,
+    "immune_competence_index": 0.8665999999999967,
+    "cognitive_function_index": 0.85,
+    "dna_damage_index": 0.029209658331693446
+  }
+]
